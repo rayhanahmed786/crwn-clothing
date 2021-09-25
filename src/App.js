@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HomePge from './homepage.components';
+import HomePge from './pages/homepage/homepage.component';
 
 function App() {
   return (
